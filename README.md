@@ -1,5 +1,7 @@
 # argp-standalone
 
+(this is a non fork that makes at a release)
+
 This is a continuation of [Niels Möller](https://www.lysator.liu.se/~nisse/)'s
 work on an argp library for systems which don't provide one themselves (most
 non-GNU ones).
